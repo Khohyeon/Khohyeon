@@ -70,8 +70,6 @@ Hi I'm Kim HoHyeon and I'm working in Busan with development.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khohyeon&layout=compact&theme=radical)
 
 
-![Header Image](/path/to/header_image.png)
-
 <h1 align="center">👋 안녕하세요! <strong>[당신의 이름]</strong>입니다.</h1>
 <h3 align="center">[당신의 직업/직위] | [회사/기관/프리랜서] | [사용하는 기술/언어]</h3>
 
