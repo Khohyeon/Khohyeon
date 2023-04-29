@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi I'm Kim HoHyeon and I'm working in Busan with development.
 </br></br>
-[![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://www.notion.so/S3-ccf5c0e9d9d24d36a12cbefe91e2eff1](https://www.notion.so/S3-ccf5c0e9d9d24d36a12cbefe91e2eff1))
+[![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://www.notion.so/f503f6f26b7c4a589ee379b27444f078?pvs=2)
 
 ---
 
