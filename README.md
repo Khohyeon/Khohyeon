@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Kim%20Hohyeon%20%F0%9F%91%8B&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
-## portfolio - [My GitHub Page](https://Khohyeon/Khohyeon.io/)
+## portfolio - [My GitHub Page](https://Khohyeon.io/)
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi I'm Kim HoHyeon and I'm working in Busan with development.
