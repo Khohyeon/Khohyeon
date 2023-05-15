@@ -15,8 +15,6 @@ Hi I'm Kim HoHyeon and I'm working in Busan with development.
 ![SPRINGBOOT](https://img.shields.io/badge/-MYSQL-222222?style=for-the-badge&logo=MYSQL)
 ![SPRINGBOOT](https://img.shields.io/badge/-MYSQL-222222?style=for-the-badge&logo=MYSQL)
 ---
- 
-
 
 ### Side Project
 
@@ -29,7 +27,6 @@ Hi I'm Kim HoHyeon and I'm working in Busan with development.
    
    3. [React](https://github.com/JinhuiStudy/react-project-codal)
     
-
 # 안녕하세요! [미친개발자]입니다. 👋
 
 저는 [당신의 직업/직위]로서 [회사/기관/프리랜서]에서 일하고 있습니다. 저는 주로 [사용하는 기술/언어]를 사용하여 [관심 분야]에 대한 프로젝트를 진행합니다.
